@@ -1,0 +1,66 @@
+﻿Compilación iniciada a las 8/11/2016 10:00:55 a. m..
+     1>Proyecto "R:\Users\Rodrigo-pc\Desktop\UPC\Ciclo 1\PROGRAMACIÓN 1\JUEGO_FINAL\JUEGO\ConsoleApplication1\ConsoleApplication1.vcxproj" en el nodo 2 (Build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+     1>ConsoleApplication1.cpp(657): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(659): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+     1>ConsoleApplication1.cpp(2158): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(2743): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(2745): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+     1>ConsoleApplication1.cpp(2951): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(2953): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+     1>ConsoleApplication1.cpp(3161): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(3163): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+     1>ConsoleApplication1.cpp(3371): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(3373): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+     1>ConsoleApplication1.cpp(3585): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(3587): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+     1>ConsoleApplication1.cpp(3799): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(3801): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+     1>ConsoleApplication1.cpp(4021): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(4023): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+     1>ConsoleApplication1.cpp(4235): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(4237): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+     1>ConsoleApplication1.cpp(4464): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(4466): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+     1>ConsoleApplication1.cpp(4734): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(133) : vea la declaración de 'kbhit'
+     1>ConsoleApplication1.cpp(6225): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\conio.h(131) : vea la declaración de 'getch'
+     1>r:\users\rodrigo-pc\desktop\upc\ciclo 1\programación 1\juego_final\juego\consoleapplication1\consoleapplication1.cpp(2147): warning C4700: se utilizó la variable local 'contador1' sin inicializar
+     1>r:\users\rodrigo-pc\desktop\upc\ciclo 1\programación 1\juego_final\juego\consoleapplication1\consoleapplication1.cpp(2152): warning C4700: se utilizó la variable local 'contador2' sin inicializar
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"R:\Users\Rodrigo-pc\Desktop\UPC\Ciclo 1\PROGRAMACIÓN 1\JUEGO_FINAL\JUEGO\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"R:\Users\Rodrigo-pc\Desktop\UPC\Ciclo 1\PROGRAMACIÓN 1\JUEGO_FINAL\JUEGO\Debug\ConsoleApplication1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\ConsoleApplication1.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         ConsoleApplication1.vcxproj -> R:\Users\Rodrigo-pc\Desktop\UPC\Ciclo 1\PROGRAMACIÓN 1\JUEGO_FINAL\JUEGO\Debug\ConsoleApplication1.exe
+     1>Compilación del proyecto terminada "R:\Users\Rodrigo-pc\Desktop\UPC\Ciclo 1\PROGRAMACIÓN 1\JUEGO_FINAL\JUEGO\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:08.89
