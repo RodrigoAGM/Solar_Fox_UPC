@@ -1,5 +1,0 @@
-Pausar			=>	'P'
-Seleccionar opción	=>	'Enter'
-Retroceder		=>	'ESC'
-Dezplazar página	=>	'->' '<-'
-Mover nave		=>	Teclas direccionales
